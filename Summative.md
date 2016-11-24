@@ -1,128 +1,124 @@
-# Proximity and  Continuation
+# Summative
 
-## What do they mean?
-**Proximity:** Nearness in space, time, or relationship.
+** Welcome to my Summative Presentation. I have tried to compile my most compelling pieces of work which we have completed in this first term. **
 
-**Continuation:** The action of carrying something on over time or the state of being carried on.
+#### Table of Contents
 
-### Things we can associate with Proximity
-* A car Park
-* A light source
-* Any two or multiple objects close to each other
-* And more
+* Union Hack
+* OneTweet
+* EyeBombing
 
-### Things we can associate with Continuation
-* Train Tracks
-* Roads
-* Time
-* Movement of the universe
-* Life
-* And more
+## Union Hack
 
-## Our Own Images
+** What is this about? **
+** This project was all about flags. Flags play an important role in the recognition of countries. As a designer, we are always tasked with creative briefs, although an irregular task, the flag design is out of my personal comfort zone. We were tasked to edit an original flag and produce four variations. After the variations, we were tasked to create a fictional flag for anything we would like. **
 
-![Train Track](https://github.com/EmptyRave/EyeBombing/blob/master/20161006_160052.jpg "Continuation")
+### Research on Turkey's Flag
 
-### _Train Tracks_
+![Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2000px-Flag_of_Turkey.svg.png "Flag")
 
-This image was taken to show the continuation of the train track, later on in this presenation I will show you a longer train track. I was limited to how I could take the picture based on the fact I had a door between me and the tracks.
+The flag is often called al bayrak (the red flag) and referred to as al sancak (the red banner) in the Turkish national anthem.
 
-**Why is this continuation?**
+Red is the primary colour in the flag, red means: love, emotion, blood, passion, power, danger and is a strong colour in Islam and China (good luck). Obviously Turkey haven't used red for all of these representations however they have used it for most.
 
-As we mentioned earlier, continuation is something carrying on, and this is what the train tracks represent very well as there is no start nor finish and they continue outside of the picture frames.
+The crescent is also supposed to be an iconic symbol in Islam as they follow the moon calendar.
 
-[![Train Driveby](https://img.youtube.com/vi/f68Pd4uUcmM/0.jpg)](https://www.youtube.com/watch?v=f68Pd4uUcmM "Train Passing")
+### Elments Rotated And Elements Copied
 
-### _Train Passing_
+![Rotation](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Turkey-Support-(Flag).png "Rotation")
 
-In this video, you can see the train passing quickly and each carriage that passes is exactly the same. Again this is continuation as it looks like the train never ends in the video.
+In this variation of the flag I had editted the star and crescent to be a representation of a parachute and star. I was trying to show Turkey to be supportive even if someone is falling fast. I have also added two stars in the back to aid the support theory. Turkey had also had a few crisis and the country had shown support to one an another.
 
-[![Ripples](https://img.youtube.com/vi/KcA8zmU4eiQ/0.jpg)](https://www.youtube.com/watch?v=KcA8zmU4eiQ "Ripples")
+### Flag Colour Changed
 
-### _Water Ripples_
+![Colour](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/B%26W.png "Colour")
 
-I am sure that everyone knows this is outside the O2 Arena. The water ripples are within close proximity and is also a good example of continuation. The ripples is continuing to go on for a long period of time until the water has been turned off, otherwise the ripples will keep on repeating itself.
+I have used black and white becuase I wanted to represent day and night. In addition, they both have great properties that I would like to represent, white is a symbol of innocence, honesty and purity. Black is associated with power and strength. HOWEVER, a lot of people associate black with death.
 
-**In This next series of images, I have tried to capture (in my opinion) what Continuation and Proximity is, using visual perception within the home**
+Knowing that majority of the Turkish population are primarily Islamic, I wanted to show day and night, Ramadan signifies what you can and cannot do during the day, and during the night.
 
-### _Floorboards_
+### Fictional Flags
 
-![FLoorboards](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_180732.jpg "Tiles")
+I wanted to create a fictional country, where it would be full of designers. For this I had to do research on what colours would represent what I would like them to. I wanted to implement creativity, wealth, passion and independence. A combination of red, purple, and blue gives luxury and elegance which is skills a designer has.
 
-This is an image of floorboards, I decided to use this due to the repitition of the wooden planks, I feel this conveys contiuation quite well. Aswell as being visually apealling.
+Orange was also a colour that came to mind as it represents creativity, joy, creativity and enthusiasm.
 
-### _Keys_
+I wanted to impliment white somehow so I though about what symbol I can use and decided to make that white as it contrasts in a distance. White represents perfection which is what a designer should aim for.
 
-![Keys](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181235.jpg "Keyboard")
+I used a light bulb as it generally symbolises an idea.
 
-Here I have captured an image of piano keys. The keys are going off the image which is continuation and the keys are next to each other in a close proximity.
+![Bad](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Terrible-Flag.png "Bad")
 
-### _Bricks_
+I didnt like the flag too much so I thought of another idea.
 
-![Bricks](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181429.jpg "Bricks")
+In this idea I used the same colours in a different way, rather than solid colours, I used a gradient which looked appealing incorporating all of the ideas in a simple way. I used a white background. I thought of adding the brain to be orange for the creativity.
 
-I used this image as I tried to capture continuation aswell as proximity, I attempted this by focusing in on the first brick alowing the rest of the bricks to becoming more obscured.
+I then thought to add a pencil to illustrate the flag being drawn to represent development.
 
-### _Heater_
+![Good](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Good-Flag.png "Good")
 
-![Heater](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181601.jpg "Heaters")
+However with some feedback, some people did not like this idea however I am still proud to have created this simple idea.
 
-This is an image of a wall heater I decided to use this picture as I feel the angle of the shot helps to display continuation, aswell as the contrast of the colours within the image blend well together.
+## OneTweet
 
-### _Radiator_
+** What is this project? **
+** The project consisted of playing with typography, taking inspiration from the Bauhaus movement. There was a set table of tweets we could visualise in some way. Below is a few tweets I had chosen to visualise. **
 
-![Radiator](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181959.jpg "Radiator")
+### Can You Hear Me Now?
 
-This is my favourite image of the series this is due to the deception the camera has created by being angled over the radiator, I feel this gives the picture alot of depth and repition which ties in proximity and continuation. In addition, as the shadows created by surrouding lighting which is hitting the white radiator, it gives off a three-dimensional effect.
+![Ear 1](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Can-You-Hear-me-old.png "Ear 1")
 
-### _Stairs_
+This is the idea I had at first, upon review, it was hard to see the quote. I had thought of a way to try and make sure the message would be clear when people read the quote. The process I took to make this idea was first writing the "Can your hear me now?" in the block shape that you can see here. I then made it into a pattern, drew a square and applied the pattern to the shape. I then enlarged the quote and made it white to fit in with the background.
 
-![Stairs](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181743.jpg "Stairs")
+![Ear 2](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Can-You-Hear-me-NEW.png "Ear 2")
 
-Here I have captured an image of a staircase, the picture displays a good example of continuation with the stairs extending with the image; this also conveys proximity, with the final stairs appearing alot smaller and fainter than the closer ones which you can see the texture on the carpet.
+I had thought of a way to make this better and it was to thicken the quote up to make it contrast more to the background.
 
-### _Street_
+### Can You Hear Me Now? _Ear_
 
-![Street](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_1068.jpg "Street")
+![Ear 1](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ear---Can-you-hear-me-1.png "Ear 1")
 
-Here is an image of a street, which is a good example of a continuation not only with the road but the cars all lined up down the street offers up a continuation.
+The idea is straightforward here, its type on a path in the shape of an ear. I did this by using the pen tool to make the overall shape of the ear, then I used the type on the path tool which adjusted to the shape of the ear.
 
-## Other Relevant Things (Content not by us)
+![Ear 2](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ear---Can-you-hear-me-2.png "Ear 2")
 
-**In this section we will discuss things we have found online which is relevant to our topics.**
+Upon reflecting, some people did not see it as an ear so I added a little bit more detail which gave more definition that it is an ear.
 
-### NFC
+### Ed Balls
 
-![NFC](https://github.com/EmptyRave/EyeBombing/blob/master/NFC.jpg "NFC")
+![Ed Balls 1](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-1.png "Ed Balls 1")
 
-This image is the logo for NFC, I haven't been able to show you the individual proximity sensor in your phone which is used by the NFC however I have attached a video of someone using Android Pay which is an NFC payment method which can be used practically anywhere which has contactless!
+This was just me experimenting the typography which has no real meaning, it was my base.
 
-[![NFC](https://img.youtube.com/vi/OkzGPV0aoV4/0.jpg)](https://www.youtube.com/watch?v=OkzGPV0aoV4 "NFC")
+![Ed Balls 2](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-2.png "Ed Balls 2")
 
-### Car Park
+I tried to use negative space however it was not relevant to the quote.
 
-![CarPark](https://github.com/EmptyRave/EyeBombing/blob/master/CarPark.jpg "CarPark")
+![Ed Balls 3](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-3.png "Ed Balls 3")
 
-This image shows close proximity between the cars because of the way they have parked, there is minimal gap between the cars. The car park as a whole is also continuation based on this image as they still continue.
+Upon doing research, I had found out a way to make what I made more relevant. I had found out that Ed Balls tweeted his name as a mistake, I tried to signify this by showing portions of the text missing, as if someone was rubbing the name out. In Twitter terms, delete the post.
 
-### WiFi
+## EyeBombing
 
-![Wifi](https://github.com/EmptyRave/EyeBombing/blob/master/Wifi.png "Wifi")
+** What is this about? **
+** This task was to find faces within objects, although this sounds weird, it was a handy task as it makes you aware of the objects around you. **
 
-WiFi is an everyday thing people use now, regardless of location. WiFi has even expanded underground at some stations. The WiFi can only be picked up if the phone is in close proximity to the router. For example, as the train moves along, the radius from the router to the phone increases until the phone is not in range to the router, therefore not in close proximity.
+### Water Well
 
-### Proximity Sensor
+![Water Well](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_141024_(Custom).jpg "Water Well")
 
-![Proximity Sensor](https://github.com/EmptyRave/EyeBombing/blob/master/proximity.jpg "Proximity")
+This is one of the better images because of the positioning of the well key holes. The face looks as if it is taken to the side, not positioned looking staright at the camera, instead looking in the distance at an object in the distance.
 
-This is an excercise, I would like everyone to take their phone out and look at the top end of the phone for a sensor. This is known as a proximity sensor, this measures the light level of the area you are in and informs the screen for the brightness level. If the proximity sensor senses pure darkness, as if you had your phone in your pocket, the screen will NOT turn on, if you have that enabled in the settings.
+### Train Door Switch
 
-### Train Tracks
+![Train](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_160444_(Custom).jpg "Train")
 
-![Tracks](https://github.com/EmptyRave/EyeBombing/blob/master/tracks.jpg "Tracks")
+This was taken on the train. The eyes are the two arrows which can be represented as happiness. The "Open" being the mouth. The rounded rectangle shows the perimeter of the face.
 
-Like I had mentioned before, I would show a train track to show continuation. The wooden planks that make up this type of track is spaced within a close proximity to each other. The track as a whole disappears in the horizon and also continues beyond the image.
+### Bike
 
+![Bike](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_140544_(Custom).jpg "Bike")
 
+The face is seen in this image. The cycle represent the eyes, the connection between the eyes can be the bridge of glasses, therefore it can be an accessory. The pavement texture can be the mouth which has emotion of being frustrated.
 
-
+# Thank you for listening to my presentation, and I hope you have liked my work.
