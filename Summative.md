@@ -1,6 +1,6 @@
 # Summative
 
-** Welcome to my Summative Presentation. I have tried to compile my most compelling pieces of work which we have completed in this first term. **
+**Welcome to my Summative Presentation. I have tried to compile my most compelling pieces of work which we have completed in this first term.**
 
 #### Table of Contents
 
@@ -10,8 +10,8 @@
 
 ## Union Hack
 
-** What is this about? **
-** This project was all about flags. Flags play an important role in the recognition of countries. As a designer, we are always tasked with creative briefs, although an irregular task, the flag design is out of my personal comfort zone. We were tasked to edit an original flag and produce four variations. After the variations, we were tasked to create a fictional flag for anything we would like. **
+**What is this about?**
+**This project was all about flags. Flags play an important role in the recognition of countries. As a designer, we are always tasked with creative briefs, although an irregular task, the flag design is out of my personal comfort zone. We were tasked to edit an original flag and produce four variations. After the variations, we were tasked to create a fictional flag for anything we would like.**
 
 ### Research on Turkey's Flag
 
@@ -61,8 +61,8 @@ However with some feedback, some people did not like this idea however I am stil
 
 ## OneTweet
 
-** What is this project? **
-** The project consisted of playing with typography, taking inspiration from the Bauhaus movement. There was a set table of tweets we could visualise in some way. Below is a few tweets I had chosen to visualise. **
+**What is this project?**
+**The project consisted of playing with typography, taking inspiration from the Bauhaus movement. There was a set table of tweets we could visualise in some way. Below is a few tweets I had chosen to visualise.**
 
 ### Can You Hear Me Now?
 
@@ -100,8 +100,8 @@ Upon doing research, I had found out a way to make what I made more relevant. I 
 
 ## EyeBombing
 
-** What is this about? **
-** This task was to find faces within objects, although this sounds weird, it was a handy task as it makes you aware of the objects around you. **
+**What is this about?**
+**This task was to find faces within objects, although this sounds weird, it was a handy task as it makes you aware of the objects around you.**
 
 ### Water Well
 
