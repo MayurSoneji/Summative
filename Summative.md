@@ -56,9 +56,13 @@ In this idea I used the same colours in a different way, rather than solid colou
 
 I then thought to add a pencil to illustrate the flag being drawn to represent development.
 
+![Fixed](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Terrible-Flag-fixed.png "Fixed")
+
+Upon feedback the colour scheme was too dull so I brightened it up as if it were representing the mood. The colours are a different shade making it brighter and more visually appealing. I still kept the original colours based on the reasons previously mentioned. The light bulb is also the same concept based on the idea of an idea.
+
 ![Good](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Good-Flag.png "Good")
 
-However with some feedback, some people did not like this idea however I am still proud to have created this simple idea.
+However with some feedback, some people did not like this idea however I am still proud to have created this simple idea and have also worked on the idea that I had gotten feedback for.
 
 ## OneTweet
 
