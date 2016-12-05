@@ -7,6 +7,7 @@
 * Union Hack
 * OneTweet
 * EyeBombing
+* Code In Your Plate
 
 ## Union Hack
 
@@ -131,5 +132,17 @@ This was taken on the train. The eyes are the two arrows which can be represente
 ![Bike](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_140544_(Custom).jpg "Bike")
 
 The face is seen in this image. The cycle represent the eyes, the connection between the eyes can be the bridge of glasses, therefore it can be an accessory. The pavement texture can be the mouth which has emotion of being frustrated.
+
+## Code In Your Plate
+
+**What is this about?**
+
+**It was an introduction to HTML and CSS. We were tasked to make a recipe in Markdown which we converted to HTML and CSS.**
+
+I had chosen Paneer Masala as it was one of my favourite dishes. I started by coding the content into Markdown and we used Thimble to convert it to HTML. Once we had converted the design to HTML, we started learning about CSS and had a playful attempt to make our designs look better.
+
+I had made choices to make my designs look the way that it is by centering everything to the browser. I had also adjusted the images to be scaled to a set size, however at the bottom where there are .gif's I could not find a large enough image.
+
+[Check the Website here](https://thimbleprojects.org/msoneji/145145/)
 
 # Thank you for listening to my presentation, and I hope you have liked my work.
