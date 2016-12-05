@@ -104,7 +104,7 @@ I tried to use negative space however it was not relevant to the quote.
 
 Upon doing research, I had found out a way to make what I made more relevant. I had found out that Ed Balls tweeted his name as a mistake, I tried to signify this by showing portions of the text missing, as if someone was rubbing the name out. In Twitter terms, delete the post.
 
-![Ed Balls 4](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-4.png "Ed Balls 4")
+![Ed Balls 4](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-4.gif "Ed Balls 4")
 
 Given feedback based on my previous idea, some people could not see it as it being rubbed out therefore I tried another approach, I still prefer the first one because when people rub things out, it is generally messy. This idea still shows the quote and it masks out some of the name.
 
